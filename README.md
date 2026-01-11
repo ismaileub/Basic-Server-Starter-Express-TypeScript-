@@ -18,6 +18,8 @@ Perfect for **starting new projects quickly** with a clean structure.
 
 ## 📂 Project Structure
 
+```
+
 src/
 ├── app/
 │ ├── helpers/ # Utility functions
@@ -50,6 +52,8 @@ src/
 ├── app.ts # Express app configuration
 ├── server.ts # Server + DB connection + graceful shutdown
 └── env.ts # Existing environment loader (optional, can merge with config/env.ts)
+
+```
 
 ---
 
